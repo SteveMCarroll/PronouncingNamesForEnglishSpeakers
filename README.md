@@ -76,7 +76,7 @@ u     | oo
 
 ### common names with tricky pronunciations
 Name      | Pronunciation  | Notes
-----------|-------------- -|---------
+----------|----------------|---------
 Yamashita | Yah-MAH-sh-Ta  | some vowels (i, u) get removed (called devoicing), this common name has it
 Kyoko     | Kyoh-koh       | (not Kee-oh-koh)      
 Ryousuke  | Ryoh-skeh      | the -suke suffix is usually skeh
