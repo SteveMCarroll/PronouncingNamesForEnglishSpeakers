@@ -55,7 +55,7 @@ Rank   | Pinyin | Pronunciation Tricks
 17     | Guo     | take the first syllable in "water" and put a G sound in front.  "Gwaww"
 18     | He      | a trickster!   pronounced like the interjection "huh!"
 19     | Gao     | rhymes with "wow"
-20     | Luo     | takes the first syllable in "water" and put an L sounds in front. "Lwaww"
+20     | Luo     | takes the first syllable in "water" and put an L sound in front. "Lwaww"
 
 ---
 by Steve Carroll
