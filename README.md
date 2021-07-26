@@ -57,6 +57,47 @@ Rank   | Pinyin | Pronunciation Tricks
 19     | Gao     | rhymes with "wow"
 20     | Luo     | takes the first syllable in "water" and put an L sound in front. "Lwaww"
 
+## Polish
+
+Polish looks to to an English speaker like a complicated mess of consonants. The consonants are a powerful [weapon](https://www.youtube.com/watch?v=AfKZclMWS1U) of special grade.
+
+But even in the exaggerated example from the film (Grzegorz Brzęczyszczykiewicz), once we learn that Z modifies sounds in Polish just like H in English sh, ch, zh, it gets much easier. So:
+
+Polish | English approximate      | Example first name
+------ | ------------------------ | ------------------
+cz     | ch as in cheese          | Czesław
+sz     | sh as in fresh           | Szymon
+rz     | z  as in azure           | Marzena
+szcz   | sh ch as in fresh cheese | Mszczuj (relax, it's very uncommon!)
+
+Now you're ready to pronounce [Grzegorz Brzęczyszczykiewicz](https://youtu.be/AfKZclMWS1U?t=1) correctly enough to earn beers from your Polish friends down at the pub. You may as well stop here but the further you go the better you will pronounce!
+
+The natural next step are some Polish-only letters and letters pronounced differently than in English:
+
+Polish | English approximate      | Example name
+------ | ------------------------ | ------------------
+ą | Nasal **o**, as in French sont    | surname Bąk
+ć, ci | As cz, but softer | surname Cichy
+ę | Nasal e, as in French vin | surname Sęk
+j | y as in yes | Jan
+ł | w as in window | Sławomir
+ń, ni | ny in canyon | surname Koń
+ś, si | As sz, but softer | Jaś (nickname of Jan)
+w | v as in very | Władysław
+y | approx. i as in bin | Tytus
+ź, zi | As rz, but softer | surname Ziarno
+ż | Same as rz | Błażej
+
+The ones with surnames as exmaple are very uncommon in first names - the reason is that while surnames are usually Slavic in origin, first name usually have Latin, Greek, Hebrew and otherwise Biblical roots, with a few common Slavic first names - so they do not have typical Polish/Slavic sounds. ś, ć, ń, being soft, unvoiced and therefore cute usually occur in nicknames (Sławomir -> Sławuś, Przemysław -> Przemuś, etc.) but rarely in full names.
+
+Now, the two final rules which will make you sound as a native. The second-last syllable is accented (pronounced louder). Examples: SZYmon, maRZEna, słaWOmir.
+
+In clusters of unvoiced (p, k, t, s, w, sz) + voiced (b, g, d, z, f, rz/ż) consonants, and when the voiced phoneme is at the end of the word, the voiced consonant becomes unvoiced. Examples: Krzysztof -> Kszysztof, Przemysław -> Pszemysłaf.
+
+This concludes all but the most rare rules of Polish pronunciation. Now go and train on your colleagues names, and earn their neverending respect.
+
+Contributed by: Przemysław Buczkowski <prem@prem.moe> (Use my name to train, I don't mind!)
+
 ---
 by Steve Carroll
 
