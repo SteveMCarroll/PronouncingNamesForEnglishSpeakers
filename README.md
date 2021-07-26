@@ -25,9 +25,9 @@ The vast majority of Chinese people in the world today writing their names using
 You can be confident when using this guide with people who were born in mainland China after 1950 or so but use caution with people from Taiwan, or people who emigrated from China before those periods. Cantonese speakers (especially from Hong Kong) are also not covered here (yet).
 
 First, if you can remember only 3 things:
-1) Zh is like a J sound (as in "Jam")
-2) X is like a Sh sound (as in "Shot")
-3) Q is like a Ch sound (as in "China")
+1) **Zh** is like a J sound (as in "Jam")
+2) **X** is like a Sh sound (as in "Shot")
+3) **Q** is like a Ch sound (as in "China")
 
 These just need to be memorized.  The sound most English speakers guess in these cases is to make them sounds like the Zh sound in the middle consonant in the English word "measure".   This is very wrong and because that sound gets used for all of them (and J) it can be very confusing.   
 
