@@ -57,6 +57,31 @@ Rank   | Pinyin | Pronunciation Tricks
 19     | Gao     | rhymes with "wow"
 20     | Luo     | takes the first syllable in "water" and put an L sound in front. "Lwaww"
 
+## Japanese 
+
+Japanese romanization of names is very standardized and regular.  Japanese pronunciation is one of the most covered topics on the Internet but this is a **practical** guide for non-experts so we're going to intentionally ignore things like pitch accent, stess vs. syllable timing and just look at a few of the more common gotchas.
+
+Vowels are relatively few and straightforward.  
+Vowel | Pronunciation
+------|--------------
+a     | ah
+e     | eh
+i     | ee
+o     | oh
+u     | oo
+
+- Watch out for combinations with the letter y.  kya, kyu, kyo, nya, ryo, and many more combinations.   The y is **never** pronounced like an "i" in english.  Each of those are pronounced as a single syllable in English and the y "flavors" the consonant.   The way English speakers say Tokyo as 'Toh-Kee-Oh' is the mistake you want to avoid here.   Toh-kyoh.
+
+- if you see the letter combination "tsu", your initial instinct might be to break it up between the t and s, but this is a single sound that is the same as the final consonant 'its' combined with the 'oo' vowel.   Example: not Mit-su-bi-shi (Mit-soo-bee-shee) but Mi-tsu-bi-shi (Mee-tsoo-bee-shee).
+
+### common names with tricky pronunciations
+Name      | Pronunciation  | Notes
+----------|-------------- -|---------
+Yamashita | Yah-MAH-sh-Ta  | some vowels (i, u) get removed (called devoicing), this common name has it
+Kyoko     | Kyoh-koh       | (not Kee-oh-koh)      
+Ryousuke  | Ryoh-skeh      | the -suke suffix is usually skeh
+
+
 ---
 by Steve Carroll
 
