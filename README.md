@@ -40,7 +40,7 @@ Rank   | Pinyin | Pronunciation Tricks
 2      | Li      | 
 3      | Zhang   | Zh = J, "ah" vowel.  Jahng
 4      | Liu     | sounds like "leeoh"
-5      | Chen    | rhymes with "fun"
+5      | Chen    | rhymes with "fun" in US, in UK rhymes with the second syllable of London
 6      | Yang    | has an "ah" vowel.   Yahng
 7      | Huang   | 
 8      | Wu      |
@@ -56,6 +56,54 @@ Rank   | Pinyin | Pronunciation Tricks
 18     | He      | a trickster!   pronounced like the interjection "huh!"
 19     | Gao     | rhymes with "wow"
 20     | Luo     | takes the first syllable in "water" and put an L sound in front. "Lwaww"
+
+### common given name components
+
+The Chinese have a wide array of possible given names, but many characters with nice meanings (e.g. beautiful, tranquil, great) are [used commonly](https://en.wikipedia.org/wiki/Chinese_given_name).
+We list a few tricky common ones in this chart
+
+Name  | Pronunciation
+------|--------------
+Fang  | Fahng
+Feng  | Fuhng
+Gang  | Gahng
+Gui   | Gway
+Hai   | english "Hi!"
+Jing  | literally just "jing". not zhing.
+Jie   | Jee-ay, all one syllable
+Jun   | Joon
+Qiang | Chee-ah-ng, all one syllable
+Yang  | Yahng
+Yong  | Yohng
+Xiao  | the first syllable in "Shower"
+Xiu   | same as english "show"
+
+Finally, be careful with the letter 'c' in Pinyin names.   It represents the ending consonant in "its".
+In names you will see "Cai" which is pronounced "Ts-eye".
+
+## Japanese 
+
+Japanese romanization of names is very standardized and regular.  Japanese pronunciation is one of the most covered topics on the Internet but this is a **practical** guide for non-experts so we're going to intentionally ignore things like pitch accent, stess vs. syllable timing and just look at a few of the more common gotchas.
+
+Vowels are relatively few and straightforward.  
+Vowel | Pronunciation
+------|--------------
+a     | ah
+e     | eh
+i     | ee
+o     | oh
+u     | oo
+
+- Watch out for combinations with the letter y.  kya, kyu, kyo, nya, ryo, and many more combinations.   The y is **never** pronounced like an "i" in english.  Each of those are pronounced as a single syllable in English and the y "flavors" the consonant.   The way English speakers say Tokyo as 'Toh-Kee-Oh' is the mistake you want to avoid here.   Toh-kyoh.
+
+- if you see the letter combination "tsu", your initial instinct might be to break it up between the t and s, but this is a single sound that is the same as the final consonant 'its' combined with the 'oo' vowel.   Example: not Mit-su-bi-shi (Mit-soo-bee-shee) but Mi-tsu-bi-shi (Mee-tsoo-bee-shee).
+
+### common names with tricky pronunciations
+Name      | Pronunciation  | Notes
+----------|----------------|---------
+Yamashita | Yah-MAH-sh-Ta  | some vowels (i, u) get removed (called devoicing), this common name has it
+Kyoko     | Kyoh-koh       | (not Kee-oh-koh)      
+Ryousuke  | Ryoh-skeh      | the -suke suffix is usually skeh
 
 ## Polish
 
