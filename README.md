@@ -40,7 +40,7 @@ Rank   | Pinyin | Pronunciation Tricks
 2      | Li      | 
 3      | Zhang   | Zh = J, "ah" vowel.  Jahng
 4      | Liu     | sounds like "leeoh"
-5      | Chen    | rhymes with "fun"
+5      | Chen    | rhymes with "fun" in US, in UK rhymes with the second syllable of London
 6      | Yang    | has an "ah" vowel.   Yahng
 7      | Huang   | 
 8      | Wu      |
