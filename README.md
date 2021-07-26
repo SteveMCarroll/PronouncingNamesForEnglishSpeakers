@@ -60,4 +60,32 @@ Rank   | Pinyin | Pronunciation Tricks
 ---
 by Steve Carroll
 
+
+## Japanese
+
+Japanese only has 5 vowel sounds, a, i, u, e, o.  A as in 'father', i as a short version of 'knee' or 'bee', 'u' as in blue, 'e' like in 'set' and 'o' as in note.
+
+In general, and in contrast to English, syllables are given equal time and emphasis.  In names like "sakura" it is very easy for English speakers to over emphasis the middle syllable.
+
+Japanese names will very often finish with a vowel sound. It is always pronounced.  There is no 'silent e' like in 'crate', 'rare', 'bribe' etc.
+
+The Japanese 'r' sound is produced with the tongue, not the lips and teeth.  You may find it easier to pronounce it as an 'l' or even as very soft 'd'.
+
+Japanese names are often written family-name given-name, though Japanese people often adjust the order in an international context.  In general, it is best to confirm.
+
+Rank   | Family Name  | Pronunciation Help
+------ | -------      |----------
+1      | Sato         | The second syllable is longer.
+2      | Suzuki       | 
+3      | Takahashi    |  Zh = J, "ah" vowel.  Jahng
+4      | Tanaka       | Every vowel should sound the same.
+5      | Watanabe     | Pronounce the final e
+6      | Ito          | Has a long 'o' sound at the end
+7      | Yamamoto     | 
+8      | Nakamura     |
+9      | Kobayashi    | 
+10     | Saito        | The 'o' is a long vowel here.
+
+
+
 feedback, suggestions, and contributions very welcome
