@@ -107,7 +107,7 @@ Ryousuke  | Ryoh-skeh      | the -suke suffix is usually skeh
 
 ## Polish
 
-Polish looks to to an English speaker like a complicated mess of consonants. The consonants are a powerful [weapon](https://www.youtube.com/watch?v=AfKZclMWS1U) of special grade.
+Polish looks to an English speaker like a complicated mess of consonants. The consonants are a powerful [weapon](https://www.youtube.com/watch?v=AfKZclMWS1U) of special grade.
 
 But even in the exaggerated example from the film (Grzegorz Brzęczyszczykiewicz), once we learn that Z modifies sounds in Polish just like H in English sh, ch, zh, it gets much easier. So:
 
