@@ -77,7 +77,7 @@ Rank   | Family Name  | Pronunciation Help
 ------ | -------      |----------
 1      | Sato         | The second syllable is longer.
 2      | Suzuki       | 
-3      | Takahashi    |  Zh = J, "ah" vowel.  Jahng
+3      | Takahashi    | 
 4      | Tanaka       | Every vowel should sound the same.
 5      | Watanabe     | Pronounce the final e
 6      | Ito          | Has a long 'o' sound at the end
