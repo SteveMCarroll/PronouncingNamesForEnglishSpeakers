@@ -57,6 +57,27 @@ Rank   | Pinyin | Pronunciation Tricks
 19     | Gao     | rhymes with "wow"
 20     | Luo     | takes the first syllable in "water" and put an L sound in front. "Lwaww"
 
+### common given name components
+
+The Chinese have a wide array of possible given names, but many characters with nice meanings (e.g. beautiful, tranquil, great) are [used commonly](https://en.wikipedia.org/wiki/Chinese_given_name).
+We list a few tricky common ones in this chart
+
+Name  | Pronunciation
+------|--------------
+Xiu   | same as english "show"
+Jing  | literally just "jing". not zhing.
+Qiang | Chee-ah-ng, all one syllable
+Yang  | Yahng
+Yong  | Yohng
+Jun   | Joon
+Jie   | Jee-ay, all one syllable
+Gui   | Gway
+Gang  | Gahng
+Fang  | Fahng
+
+Finally, be careful with the letter 'c' in Pinyin names.   It represents the ending consonant in "its".
+In names you will see "Cai" which is pronounced "Ts-eye".
+
 ## Japanese 
 
 Japanese romanization of names is very standardized and regular.  Japanese pronunciation is one of the most covered topics on the Internet but this is a **practical** guide for non-experts so we're going to intentionally ignore things like pitch accent, stess vs. syllable timing and just look at a few of the more common gotchas.
