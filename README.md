@@ -65,9 +65,9 @@ But even in the exaggerated example from the film (Grzegorz Brzęczyszczykiewicz
 
 Polish | English approximate      | Example first name
 ------ | ------------------------ | ------------------
-cz     | ch as in cheese          | Czesław
-sz     | sh as in fresh           | Szymon
-rz     | z  as in azure           | Marzena
+cz     | ch as in cheese          | [Czesław](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pl-Czes%C5%82aw.ogg)
+sz     | sh as in fresh           | [Bartosz](https://upload.wikimedia.org/wikipedia/commons/3/3e/Pl-Bartosz.ogg)
+rz     | z  as in azure           | [Marzena](https://upload.wikimedia.org/wikipedia/commons/2/20/Pl-Marzena.ogg)
 szcz   | sh ch as in fresh cheese | Mszczuj (relax, it's very uncommon!)
 
 Now you're ready to pronounce [Grzegorz Brzęczyszczykiewicz](https://youtu.be/AfKZclMWS1U?t=1) correctly enough to earn beers from your Polish friends down at the pub. You may as well stop here but the further you go the better you will pronounce!
@@ -79,24 +79,30 @@ Polish | English approximate      | Example name
 ą | Nasal **o**, as in French sont    | surname Bąk
 ć, ci | As cz, but softer | surname Cichy
 ę | Nasal e, as in French vin | surname Sęk
-j | y as in yes | Jan
-ł | w as in window | Sławomir
-ń, ni | ny in canyon | surname Koń
+j | y as in yes | [Jan](https://upload.wikimedia.org/wikipedia/commons/0/05/Pl-Jan.ogg)
+ł | w as in window | [Sławomira](https://upload.wikimedia.org/wikipedia/commons/e/e9/Pl-S%C5%82awomira.ogg)
+ń, ni | ny in canyon | [Stanisław](https://upload.wikimedia.org/wikipedia/commons/d/d4/Pl-Stanis%C5%82aw.ogg)
 ś, si | As sz, but softer | Jaś (nickname of Jan)
-w | v as in very | Władysław
-y | approx. i as in bin | Tytus
+w | v as in very | [Władysław](https://upload.wikimedia.org/wikipedia/commons/d/d5/Pl-W%C5%82adys%C5%82aw.ogg)
+y | approx. i as in bin | [Tytus](https://upload.wikimedia.org/wikipedia/commons/8/8c/Pl-Tytus.ogg)
 ź, zi | As rz, but softer | surname Ziarno
-ż | Same as rz | Błażej
+ż | Same as rz | [Błażej](https://upload.wikimedia.org/wikipedia/commons/a/a6/Pl-B%C5%82a%C5%BCej.ogg)
 
-The ones with surnames as exmaple are very uncommon in first names - the reason is that while surnames are usually Slavic in origin, first name usually have Latin, Greek, Hebrew and otherwise Biblical roots, with a few common Slavic first names - so they do not have typical Polish/Slavic sounds. ś, ć, ń, being soft, unvoiced and therefore cute usually occur in nicknames (Sławomir -> Sławuś, Przemysław -> Przemuś, etc.) but rarely in full names.
+The ones with surnames as exmaple are very uncommon in first names - the reason is that while surnames are usually Slavic in origin, first name usually have Latin, Greek, Hebrew and otherwise Biblical roots, with a few common Slavic first names - so they do not have typical Polish/Slavic sounds. ś, ć, ń, being soft, unvoiced and therefore cute usually occur in nicknames (Sławomir -> Sławuś, Przemysław -> Przemuś, etc.) but rarely in full names. This function is nearly identical to Japanese -chan.
 
-Now, the two final rules which will make you sound as a native. The second-last syllable is accented (pronounced louder). Examples: SZYmon, maRZEna, słaWOmir.
+Now, the two final rules which will make you sound as a native. The second-last syllable is accented (pronounced louder). Examples: [barBAra](https://upload.wikimedia.org/wikipedia/commons/7/77/Pl-Barbara.ogg), [Ada](https://upload.wikimedia.org/wikipedia/commons/4/4c/Pl-Ada.ogg), [maRZEna](https://upload.wikimedia.org/wikipedia/commons/2/20/Pl-Marzena.ogg), [jan](https://upload.wikimedia.org/wikipedia/commons/0/05/Pl-Jan.ogg).
 
-In clusters of unvoiced (p, k, t, s, w, sz) + voiced (b, g, d, z, f, rz/ż) consonants, and when the voiced phoneme is at the end of the word, the voiced consonant becomes unvoiced. Examples: Krzysztof -> Kszysztof, Przemysław -> Pszemysłaf.
+In clusters of unvoiced (p, k, t, s, w, sz) + voiced (b, g, d, z, f, rz/ż) consonants, and when the voiced phoneme is at the end of the word, the voiced consonant becomes unvoiced. Examples: Krzysztof -> [Kszysztof](https://upload.wikimedia.org/wikipedia/commons/c/c1/Pl-Krzysztof.ogg), Przemysław -> [Pszemysłaf](https://upload.wikimedia.org/wikipedia/commons/b/be/Pl-Przemys%C5%82aw.ogg).
 
 This concludes all but the most rare rules of Polish pronunciation. Now go and train on your colleagues names, and earn their neverending respect.
 
-Contributed by: Przemysław Buczkowski <prem@prem.moe> (Use my name to train, I don't mind!)
+Contributed by: Przemysław Buczkowski (<prem@prem.moe>) (Use my name to train, I don't mind!)
+
+Links:
+* https://pl.wikipedia.org/wiki/Wikipedysta:Pawe%C5%82_Ziemian/imiona
+* https://en.wikipedia.org/wiki/Help:IPA/Polish
+* https://en.wikipedia.org/wiki/Polish_phonology
+* https://en.wikipedia.org/wiki/Polish_name
 
 ---
 by Steve Carroll
