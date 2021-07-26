@@ -64,16 +64,19 @@ We list a few tricky common ones in this chart
 
 Name  | Pronunciation
 ------|--------------
-Xiu   | same as english "show"
+Fang  | Fahng
+Feng  | Fuhng
+Gang  | Gahng
+Gui   | Gway
+Hai   | english "Hi!"
 Jing  | literally just "jing". not zhing.
+Jie   | Jee-ay, all one syllable
+Jun   | Joon
 Qiang | Chee-ah-ng, all one syllable
 Yang  | Yahng
 Yong  | Yohng
-Jun   | Joon
-Jie   | Jee-ay, all one syllable
-Gui   | Gway
-Gang  | Gahng
-Fang  | Fahng
+Xiao  | the first syllable in "Shower"
+Xiu   | same as english "show"
 
 Finally, be careful with the letter 'c' in Pinyin names.   It represents the ending consonant in "its".
 In names you will see "Cai" which is pronounced "Ts-eye".
