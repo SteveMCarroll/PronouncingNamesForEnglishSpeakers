@@ -70,6 +70,7 @@ Gang  | Gahng
 Gui   | Gway
 Hai   | english "Hi!"
 Jing  | literally just "jing". not zhing.
+Jia   | Jah, just one syllable, not Jee-ah
 Jie   | Jee-ay, all one syllable
 Jun   | Joon
 Qiang | Chee-ah-ng, all one syllable
