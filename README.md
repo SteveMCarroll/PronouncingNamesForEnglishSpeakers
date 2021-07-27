@@ -46,11 +46,11 @@ Rank   | Pinyin | Pronunciation Tricks
 8      | Wu      |
 9      | Zhao    | J sound, rhymes with "wow".   Jow
 10     | Zhou    | J sound, same as English name "Joe"
-11     | Xu      | same as English word "shoe"
-12     | Su      |
+11     | Xu      | X = sh. The "u" here sounds like the french "u", as in "musique". The IPA is /y/.
+12     | Su      | This "u" has the English "oo" sound.
 13     | Ma      |
 14     | Zhu     | same as English word "Jew"
-15     | Hu      |
+15     | Hu      | same as English word "Who"
 16     | Lin     |
 17     | Guo     | take the first syllable in "water" and put a G sound in front.  "Gwaww"
 18     | He      | a trickster!   pronounced like the interjection "huh!"
