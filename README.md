@@ -194,7 +194,7 @@ The ones with surnames as exmaple are very uncommon in first names - the reason 
 
 Now, the two final rules which will make you sound as a native. The second-last syllable is accented (pronounced louder). Examples: [barBAra](https://upload.wikimedia.org/wikipedia/commons/7/77/Pl-Barbara.ogg), [Ada](https://upload.wikimedia.org/wikipedia/commons/4/4c/Pl-Ada.ogg), [maRZEna](https://upload.wikimedia.org/wikipedia/commons/2/20/Pl-Marzena.ogg), [jan](https://upload.wikimedia.org/wikipedia/commons/0/05/Pl-Jan.ogg).
 
-In clusters of unvoiced (p, k, t, s, w, sz) + voiced (b, g, d, z, f, rz/ż) consonants, and when the voiced phoneme is at the end of the word, the voiced consonant becomes unvoiced. Examples: Krzysztof -> [Kszysztof](https://upload.wikimedia.org/wikipedia/commons/c/c1/Pl-Krzysztof.ogg), Przemysław -> [Pszemysłaf](https://upload.wikimedia.org/wikipedia/commons/b/be/Pl-Przemys%C5%82aw.ogg).
+In clusters of unvoiced (p, k, t, s, f, sz) + voiced (b, g, d, z, w, rz/ż) consonants, and when the voiced phoneme is at the end of the word, the voiced consonant becomes unvoiced. Examples: Krzysztof -> [Kszysztof](https://upload.wikimedia.org/wikipedia/commons/c/c1/Pl-Krzysztof.ogg), Przemysław -> [Pszemysłaf](https://upload.wikimedia.org/wikipedia/commons/b/be/Pl-Przemys%C5%82aw.ogg).
 
 This concludes all but the most rare rules of Polish pronunciation. Now go and train on your colleagues names, and earn their neverending respect.
 
