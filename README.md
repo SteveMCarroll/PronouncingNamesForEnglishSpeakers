@@ -106,6 +106,58 @@ Yamashita | Yah-MAH-sh-Ta  | some vowels (i, u) get removed (called devoicing), 
 Kyoko     | Kyoh-koh       | (not Kee-oh-koh)      
 Ryousuke  | Ryoh-skeh      | the -suke suffix is usually skeh
 
+## Czech
+
+Czech names are a bit harder than they look and have some unique challenges, at least some of which are quite hidden.
+
+The biggest problem your going to have is that most of the time when you, the English speaker, see a Czech name, there is a chance it has been simplified of important pronunciation information because Czechs uses a few symbols that are not easily typable on a standard English keyboard and therefore, Czech people frequently just leave them out but they contain critical info that can make your pronunciation attempt be WAY off as we'll see in this section.  I have a hack that can help for this.  First, check their LinkedIn page, as those are frequently written for other Czechs and will have the missing symbols.   My second suggestion is to search Wikipedia for the name and you'll often find someone with that same given or surname.   You can then use the "other language version" selector to pull up the Czech language page for the full symbol info.
+
+The first type are what most would guess are accent marks (i.e. á, í ,é, etc.).  These aren't actually accent marks.   They actually mark if the vowel is long or not.   If you see these marks, just hold the vowel about 1.5x longer.  Don't treat them like accent marks.   The stress in Czech names is always on the first syllable.   
+
+Vowel | Pronuciation
+------|-------------
+a     | ah
+e     | eh
+ě     | yeh
+i,y   | ih 
+o     | oh
+u     | oo
+ů     | long oo
+
+If you use a short vowel where you should have used a long vowel, it won't throw the sound off too badly, but that's unfortunately not true of the second type of frequently missing symbols. The symbol is a little hook over certain consonants that **completely** changes the sound of the consonants.  Here's a table of the hook consonants and the other suprising pronunciation of consonants in Czech.
+
+Czech Consonant | Pronunciation
+----------------|---------------
+š               | SH              
+č               | CH
+ř               | RZH - yeah, czech people know you aren't going to get this right.  combine an R and the middle consonsant in "measure" and hope for the best.
+ž               | ZH - the middle consonant in "measure"
+c               | TS - like the last consonant in "its"
+j               | Y - as in "yellow"
+ch              | same as scottish "loch".  **not** like ch in "cheese".   That's what č is for.
+
+Finally, there are two consonants that act like vowels sometimes: R and L.   I think the best approximation for R when used a vowel for R is the final "ir" in "stir". For L, you can use the "ull" in "full" as your approximation. 
+
+### Example tricky names
+
+This list is heavily seeded with the names of my co-workers that I hear people get wrong all the time as that was my primary motivation for starting this list.  Please file an issue if you have a Czech name people butcher and I'll add it.
+
+Name            | Pronunciation      | notes
+----------------|--------------------|-------
+Václav          | VAAHTS-lahv        | **not** VAHK-lahv. 
+Černý           | CHEHR-neee         |
+Jan             | YAHN               |
+Beneš           | BEH-nesh           | Elaine on Seinfeld is an example of Rule #1 above :)
+Petr            | PEH-tur            |
+Tomáš           | TOH-maahsh         | **not** like Thomas or TOH-mahs or toh-MAAHSH.
+Karel           | KAH-rehl           | **not** like Carol.  
+Marek           | MAH-rehk           | **not** like the word "mare" with "ek" tossed at the end.
+Konečný         | KOH-nehch-nee      |
+Jakub           | YAH-koob           | **not** like Jacob
+Jareš           | YAH-resh           |
+Píchová         | PEEE-**CH**oh-vaah | the CH is the "loch" ch not the "cheese" ch.  
+
+ 
 ## Polish
 
 Polish looks to an English speaker like a complicated mess of consonants. The consonants are a powerful [weapon](https://www.youtube.com/watch?v=AfKZclMWS1U) of special grade.
