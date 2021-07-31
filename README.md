@@ -157,7 +157,8 @@ Jakub           | YAH-koob           | **not** like Jacob
 Jareš           | YAH-resh           |
 Píchová         | PEEE-**CH**oh-vaah | the CH is the "loch" ch not the "cheese" ch.  
 
- 
+Another Czech name fact worth knowing is that women add the suffix -ová to the end of their surnames.   So the wife of Mr Beneš is Mrs. Benešová.
+
 ## Polish
 
 Polish looks to an English speaker like a complicated mess of consonants. The consonants are a powerful [weapon](https://www.youtube.com/watch?v=AfKZclMWS1U) of special grade.
