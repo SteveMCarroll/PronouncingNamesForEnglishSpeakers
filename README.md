@@ -34,7 +34,7 @@ First, if you can remember only 4 things:
 
 These just need to be memorized.  The sound most English speakers guess in these cases is to make them sounds like the Zh sound in the middle consonant in the English word "measure".   This is very wrong and because that sound gets used for all of them (and J) it can be very confusing.   
 
-# Zi, Ci, Si, Zhi, Chi, Shi, Ri 
+### Zi, Ci, Si, Zhi, Chi, Shi, Ri 
 Another set of tricky sounds that you can probably improve on and show up in names frequently are this pattern of consonant+i.
 The "i" sound isn't pronounced like any of the sounds that "i" represents in English. It's not pronounced like a vowel at all.
 It's just a marker that tells you to just pronounce the consonant sound. A close approximation in English for "si" is the vowel in "ros**e**s".
