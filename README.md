@@ -24,12 +24,20 @@ Chinese is a complicated subject and the goal of this guide is to be practical a
 The vast majority of Chinese people in the world today writing their names using the English alphabet use a system called [Pinyin](https://en.wikipedia.org/wiki/Pinyin).
 You can be confident when using this guide with people who were born in mainland China after 1950 or so but use caution with people from Taiwan, or people who emigrated from China before those periods. Cantonese speakers (especially from Hong Kong) are also not covered here (yet).
 
-First, if you can remember only 3 things:
+### tricky consonants
+
+First, if you can remember only 4 things:
 1) **Zh** is like a J sound (as in "Jam")
 2) **X** is like a Sh sound (as in "Shot")
 3) **Q** is like a Ch sound (as in "China")
+4) **C** is like a Ts sounds (as in "Its")
 
 These just need to be memorized.  The sound most English speakers guess in these cases is to make them sounds like the Zh sound in the middle consonant in the English word "measure".   This is very wrong and because that sound gets used for all of them (and J) it can be very confusing.   
+
+# Zi, Ci, Si, Zhi, Chi, Shi, Ri 
+Another set of tricky sounds that you can probably improve on and show up in names frequently are this pattern of consonant+i.
+The "i" sound isn't pronounced like any of the sounds that "i" represents in English. It's not pronounced like a vowel at all.
+It's just a marker that tells you to just pronounce the consonant sound. A close approximation in English for "si" is the vowel in "ros**e**s".
 
 The good news about Chinese surnames for English speakers is that there are very few of them.   The word for "the masses" in Chinese (百家姓) can be literally translated as "the old 100 surnames" because of how few there are.   Even better news is that the top 20 surnames account for more than 54% of all Chinese people's surnames. 
 
@@ -78,9 +86,7 @@ Yang  | Yahng
 Yong  | Yohng
 Xiao  | the first syllable in "Shower"
 Xiu   | same as english "show"
-
-Finally, be careful with the letter 'c' in Pinyin names.   It represents the ending consonant in "its".
-In names you will see "Cai" which is pronounced "Ts-eye".
+Ye    | say "yes" without the 's' sound
 
 ## Japanese 
 
@@ -159,6 +165,9 @@ Píchová         | PEEE-**CH**oh-vaah | the CH is the "loch" ch not the "cheese
 
 Another Czech name fact worth knowing is that women add the suffix -ová to the end of their surnames.   So the wife of Mr Beneš is Mrs. Benešová.
 
+## Thai
+(coming soon)
+
 ## Polish
 
 Polish looks to an English speaker like a complicated mess of consonants. The consonants are a powerful [weapon](https://www.youtube.com/watch?v=AfKZclMWS1U) of special grade.
@@ -194,7 +203,7 @@ The ones with surnames as exmaple are very uncommon in first names - the reason 
 
 Now, the two final rules which will make you sound as a native. The second-last syllable is accented (pronounced louder). Examples: [barBAra](https://upload.wikimedia.org/wikipedia/commons/7/77/Pl-Barbara.ogg), [Ada](https://upload.wikimedia.org/wikipedia/commons/4/4c/Pl-Ada.ogg), [maRZEna](https://upload.wikimedia.org/wikipedia/commons/2/20/Pl-Marzena.ogg), [jan](https://upload.wikimedia.org/wikipedia/commons/0/05/Pl-Jan.ogg).
 
-In clusters of unvoiced (p, k, t, s, f, sz) + voiced (b, g, d, z, w, rz/ż) consonants, and when the voiced phoneme is at the end of the word, the voiced consonant becomes unvoiced. Examples: Krzysztof -> [Kszysztof](https://upload.wikimedia.org/wikipedia/commons/c/c1/Pl-Krzysztof.ogg), Przemysław -> [Pszemysłaf](https://upload.wikimedia.org/wikipedia/commons/b/be/Pl-Przemys%C5%82aw.ogg).
+In clusters of unvoiced (p, k, t, s, w, sz) + voiced (b, g, d, z, f, rz/ż) consonants, and when the voiced phoneme is at the end of the word, the voiced consonant becomes unvoiced. Examples: Krzysztof -> [Kszysztof](https://upload.wikimedia.org/wikipedia/commons/c/c1/Pl-Krzysztof.ogg), Przemysław -> [Pszemysłaf](https://upload.wikimedia.org/wikipedia/commons/b/be/Pl-Przemys%C5%82aw.ogg).
 
 This concludes all but the most rare rules of Polish pronunciation. Now go and train on your colleagues names, and earn their neverending respect.
 
