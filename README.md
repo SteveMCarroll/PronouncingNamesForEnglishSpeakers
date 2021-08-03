@@ -173,6 +173,8 @@ A quick disclaimer.   My wife is Thai-American and I know some Thai, but unlike 
 
 If you remember one thing about pronouncing Thai names, the letter 'h' usually doesn't do what you will expect it to do when it is combined with other letters.  By itself, it sounds the same as English, but when combined with other consonants, it tells you whether or not you let out a puff of air or not.  You do this in English all the time, you just don't realize it because we don't spell it.  The easiest example here is the word Thai which I assume you are pronouncing correctly!  Hold your hand in from of your face and say Thai.  Feel the puff?   That's what the h does when you add it to a consonant as in "Th".  Now do the same with the English word "pup".  Feel the puff?  That sound is written 'Ph'.  'Kh' is the first syllable in English "cat".  Now you know how to pronounce 'Th', 'Ph', and 'Kh' which are the most common mistakes.  Now here's the slightly tricky part: If you see 'T', 'P', or 'K', without the h, you need to take your normal English sound and then don't puff at the end.   Oh, and because everything has to be hard all the time, 'Ch' is just a normal English 'Ch' sound.
 
+Also, Thai 'V' is pronounced like English 'W'.  I remember this by associating it Richard Wagner's name.  It's weird but it works.
+
 ### Tricky vowels
 
 Thai has a lot of vowels and some of them are surprising, but I think English speakers guess pretty well most of the time.
