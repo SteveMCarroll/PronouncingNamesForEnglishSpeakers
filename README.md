@@ -166,6 +166,20 @@ Píchová         | PEEE-**CH**oh-vaah | the CH is the "loch" ch not the "cheese
 Another Czech name fact worth knowing is that women add the suffix -ová to the end of their surnames.   So the wife of Mr Beneš is Mrs. Benešová.
 
 ## Thai
+
+A quick disclaimer.   My wife is Thai-American and I know some Thai, but unlike some of the other sections where I consider myself an advanced learner, this is a language in which I'm a rank beginner.  If you are a native English speaker who has put the work in on Thai and want to flush out this section, I would greatly appreciate your contribution. In the meantime, I'm going to list some gotchas I've learned the hard way. -- Steve
+
+### Tricky consonants
+
+If you remember one thing about pronouncing Thai names, the letter 'h' usually doesn't do what you will expect it to do when it is combined with other letters.  By itself, it sounds the same as English, but when combined with other consonants, it tells you whether or not you let out a puff of air or not.  You do this in English all the time, you just don't realize it because we don't spell it.  The easiest example here is the word Thai which I assume you are pronouncing correctly!  Hold your hand in from of your face and say Thai.  Feel the puff?   That's what the h does when you add it to a consonant as in "Th".  Now do the same with the English word "pup".  Feel the puff?  That sound is written 'Ph'.  'Kh' is the first syllable in English "cat".  Now you know how to pronounce 'Th', 'Ph', and 'Kh' which are the most common mistakes.  Now here's the slightly tricky part: If you see 'T', 'P', or 'K', without the h, you need to take your normal English sound and then don't puff at the end.   Oh, and because everything has to be hard all the time, 'Ch' is just a normal English 'Ch' sound.
+
+### Tricky vowels
+
+Thai has a lot of vowels and some of them are surprising, but I think English speakers guess pretty well most of the time.
+If you are only going to remember one thing besides the air puffs we discussed in consonants, please remember that the Thai suffix '-orn' is pronounced like the English suffix '-awn'. Steve, I can hear you asking in your head, why would this one combo of sounds be the only other thing I remember about Thai?  Well, faithful reader, the Thai suffix "-porn" is quite common in Thai female names.  This name suffix is pronounced "-PAWN", not like English "porn".   So yeah, prioritize remembering this one to avoid many awkward situations!
+
+### Mispronounced names
+
 (coming soon)
 
 ## Polish
