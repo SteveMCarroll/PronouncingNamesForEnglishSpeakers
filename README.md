@@ -233,11 +233,11 @@ Links:
 
 ## Portuguese (Brazilian)
 
-The challenge with Portuguese is that there are some phonems (such as \[ɐ̃w̃\], \[s̻\] or \[ʎ\]) and [diacritics](https://en.wikipedia.org/wiki/Diacritic) (such as an accent or cedilla) not common or not at all present in the English language. 
+The challenge with Portuguese is that there are some phonems and [diacritics](https://en.wikipedia.org/wiki/Diacritic) (such as an accent or cedilla) not common or not at all present in the English language. 
 
 First, a few general rules:
-1) **ão** is a nasal diphthong and resembles "pawn" + "o"
-2) **ç** is like a soft S sound (think of how you'd prounounce the French word [facade](https://en.wiktionary.org/wiki/facade))
+1) **ão** is similar to the sound you'd make saying the word "pawn" + "oh" while holding your nose
+2) **ç** is a soft S sound such as that of the word [fa**ca**de](https://en.wiktionary.org/wiki/facade)
 3) **lh** is similar to the Spanish "ll" as in "pollo" (chicken) or "pol" - "io"
 4) **nh** is similar to the Spanish "ñ", as in "piña" (pineapple) or "pin" - "a"
 
