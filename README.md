@@ -215,7 +215,7 @@ y | approx. i as in bin | [Tytus](https://upload.wikimedia.org/wikipedia/commons
 ź, zi | As rz, but softer | surname Ziarno
 ż | Same as rz | [Błażej](https://upload.wikimedia.org/wikipedia/commons/a/a6/Pl-B%C5%82a%C5%BCej.ogg)
 
-The ones with surnames as exmaple are very uncommon in first names - the reason is that while surnames are usually Slavic in origin, first name usually have Latin, Greek, Hebrew and otherwise Biblical roots, with a few common Slavic first names - so they do not have typical Polish/Slavic sounds. ś, ć, ń, being soft, unvoiced and therefore cute usually occur in nicknames (Sławomir -> Sławuś, Przemysław -> Przemuś, etc.) but rarely in full names. This function is nearly identical to Japanese -chan.
+The ones with surnames as example are very uncommon in first names - the reason is that while surnames are usually Slavic in origin, first name usually have Latin, Greek, Hebrew and otherwise Biblical roots, with a few common Slavic first names - so they do not have typical Polish/Slavic sounds. ś, ć, ń, being soft, unvoiced and therefore cute usually occur in nicknames (Sławomir -> Sławuś, Przemysław -> Przemuś, etc.) but rarely in full names. This function is nearly identical to Japanese -chan.
 
 Now, the two final rules which will make you sound as a native. The second-last syllable is accented (pronounced louder). Examples: [barBAra](https://upload.wikimedia.org/wikipedia/commons/7/77/Pl-Barbara.ogg), [Ada](https://upload.wikimedia.org/wikipedia/commons/4/4c/Pl-Ada.ogg), [maRZEna](https://upload.wikimedia.org/wikipedia/commons/2/20/Pl-Marzena.ogg), [jan](https://upload.wikimedia.org/wikipedia/commons/0/05/Pl-Jan.ogg).
 
