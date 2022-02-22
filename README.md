@@ -231,6 +231,24 @@ Links:
 * https://en.wikipedia.org/wiki/Polish_phonology
 * https://en.wikipedia.org/wiki/Polish_name
 
+## Portuguese (Brazilian)
+
+The challenge with Portuguese is that there are some phonems and [diacritics](https://en.wikipedia.org/wiki/Diacritic) (such as an accent or cedilla) not common or not at all present in the English language. 
+
+First, a few general rules:
+1) **ão** is similar to the sound you'd make saying the word "pawn" + "oh" while holding your nose
+2) **ç** is a soft S sound such as that of the word [fa**ca**de](https://en.wiktionary.org/wiki/facade)
+3) **lh** is similar to the Spanish "ll" as in "pollo" (chicken) or "pol" - "io"
+4) **nh** is similar to the Spanish "ñ", as in "piña" (pineapple) or "pin" - "a"
+
+Here are some common names and surnames in alphabetical order and how to pronounce them:
+Name (in **bold** is the stressed syllable) | Pronunciation Tricks
+--------------------------------------------------------|---------------------
+Gui**lher**me | this is tricky, Gui as in "gui-tar" - lher, as in "lee-er" - "me"
+Jo**ão** | Jo, this is a soft J, so more like "sho-w" than like "Joh-n" - ão, which is a nasal sound, almost as in "pawn" + "o"
+Men**don**ça (surname) | "Men" - "don" - sa, as in "Sa-rah"
+Ronal**din**ho | "Ro" - "nal" - "din" - "o"
+
 ---
 by Steve Carroll
 
